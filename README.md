@@ -6,8 +6,11 @@
 
 ##
 
-Стартовый экран приложения. Вы видите custom View для своего профиля с аватаром и обоями, другие ячейки представляют собой посты.
-<img width="478" alt="1" src="https://github.com/Serzherio/TestProject/blob/master/Screens/1.png">
+Стартовый экран приложения. На первом окне TabBar вы видите custom View для своего профиля с аватаром и обоями, другие ячейки представляют собой посты.
+На втором экране TabBar настройки профиля, позволяющие кастомизировать изображения и описание.
+
+<img width="300" alt="1" src="https://github.com/Serzherio/TestProject/blob/master/Screens/1.png"> <img width="300" alt="2" src="https://github.com/Serzherio/TestProject/blob/master/Screens/2.png">
+
 
 ##
 
